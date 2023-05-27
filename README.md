@@ -1,7 +1,5 @@
 # 关于我
 
-![](https://komarev.com/ghpvc/?username=immengzi)
-
 ## 自我介绍
 
 - XMengH / 女 / 2003
