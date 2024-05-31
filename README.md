@@ -1,12 +1,10 @@
-# 关于我
+# Who Am I
 
-## 自我介绍
+Hello! I'm XMengH, a current student at Wuhan University, specializing in Computer Science. 
 
-- XMengH / 女 / 2003
-- 本科在读 / 武汉大学计算机科学与技术专业
-- GitHub：https://github.com/immengzi
+As a young woman and an aspiring Web developer, I am dedicated and curious, always eager to explore both CS-related and non-CS topics. Feel free to reach out if you want to discuss technology, share ideas, or simply chat about anything interesting!
 
-## 联系方式
+# Contact Me
 
-- Email：immengzi@outlook.com（我会随时查看）
-- QQ：1686769963（请说明来意）
+- Email: immengzi[at]outlook[dot]com (I check this all the time!)
+- QQ: 1686769963
