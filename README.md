@@ -1,10 +1,8 @@
-# Who Am I
+## Hi there 👋
 
-Hello! I'm XMengH (she/her), a current student at Wuhan University, specializing in Computer Science. 
+I’m Li Zimeng, a CS student passionate about new tech, currently focused on Web Dev. 
 
-As an aspiring Web developer, I am dedicated and curious, always eager to explore both CS-related and non-CS topics. Feel free to reach out if you want to discuss technology, share ideas, or simply chat about anything interesting!
+Reach me at immengzi@outlook.com or QQ 1686769963.
 
-# Contact Me
-
-- Email: immengzi[at]outlook[dot]com (I check this all the time!)
-- QQ: 1686769963
+## 📈 my stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=immengzi&show_icons=true&hide=issues&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immengzi&layout=compact&theme=transparent)
