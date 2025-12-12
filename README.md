@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-I’m Li Zimeng, a CS student passionate about new tech, currently focused on Web Dev. 
+I’m Li Zimeng (she/her), a graduate of the School of Computer Science at Wuhan University. 
 
-Reach me at immengzi@outlook.com or QQ 1686769963.
+I’m currently working on kernel and virtualization technologies. I used to be passionate about front-end development, and I still enjoy exploring new ideas across different areas of tech. 
 
-## 📈 my stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=immengzi&show_icons=true&hide=issues&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immengzi&layout=compact&theme=transparent)
+Happy to meet everyone on the internet!
+
+## Contact Me
+
+Email: immengzi[at]outlook[dot]com (I check this all the time)
